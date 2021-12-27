@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d67a8d8c-7d19-4382-a33e-79e1b1d63fda": {
+      "ProjectGuid": "d67a8d8c-7d19-4382-a33e-79e1b1d63fda",
+      "DisplayName": "2021-12-25",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
